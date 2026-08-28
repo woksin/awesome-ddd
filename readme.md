@@ -329,6 +329,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Deveel Events](https:///events.deveel.org)- Provides an easy-to-use framework for the publication and subscription of events in .NET applications, supporting multiple messaging channels (eg. RabbitMQ, Azure Service Bus, etc.) and a variety of serialization formats (eg. JSON, XML, etc.).
 
 ### Databases
+- [Chronicle](https://github.com/Cratis/Chronicle) - Open-source event sourcing database and processing runtime, with clients for .NET, TypeScript, Kotlin/Java, and Elixir.
 - [Event Store](https://geteventstore.com) - The open-source, functional database with Complex Event Processing in JavaScript.
 - [Eventsourcing](https://eventsourcing.com) - Business event capture and querying framework.
 - [Message DB](https://github.com/message-db/message-db) - Microservice Native Event Store and Message Store for Postgres. A fully-featured event store and message store implemented in PostgreSQL for Pub/Sub, Event Sourcing, Messaging, and Evented Microservices applications.
